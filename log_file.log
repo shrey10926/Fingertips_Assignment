@@ -1,0 +1,5 @@
+2023-03-17 17:52:38,155::werkzeug::_internal.py::_log::224:: * Debugger is active!
+2023-03-17 17:52:38,213::werkzeug::_internal.py::_log::224:: * Debugger PIN: 523-279-387
+2023-03-17 17:52:43,519::root::prediction.py::flask_api::54::Fetching data from request...
+2023-03-17 17:52:43,519::root::prediction.py::flask_api::56::Data Fetched!
+2023-03-17 17:52:44,174::werkzeug::_internal.py::_log::224::192.168.179.40 - - [17/Mar/2023 17:52:44] "POST /predict HTTP/1.1" 200 -
